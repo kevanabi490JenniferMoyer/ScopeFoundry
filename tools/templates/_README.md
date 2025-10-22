@@ -28,3 +28,5 @@ History
 ### 0.1.0	YYYY-MM-DD	Initial public release.
 
 The plug-in has been used internally and has been stable.
+
+<!-- Auto-update: 2025-10-22T08:12:05.986134 -->
